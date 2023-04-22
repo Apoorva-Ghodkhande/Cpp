@@ -8,3 +8,4 @@ wandbox.org
 coliru
 godbolt.org
 
+Pointer is variable which strores address of another variable.
