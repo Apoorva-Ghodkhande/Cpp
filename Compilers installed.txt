@@ -9,3 +9,5 @@ coliru
 godbolt.org
 
 Pointer is variable which stores address of another variable.
+Concepts need to check:
+Dangling Pointres.
