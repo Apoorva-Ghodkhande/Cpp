@@ -8,4 +8,4 @@ wandbox.org
 coliru
 godbolt.org
 
-Pointer is variable which strores address of another variable.
+Pointer is variable which stores address of another variable.
